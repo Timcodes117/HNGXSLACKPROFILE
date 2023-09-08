@@ -21,5 +21,5 @@ AURTHOR: TIMOTHY ADEBOGUN
 - WEBVIEW
   
 # SOURCE CODE
-lINK: <a href="https://github.com/Timcodes117/HNGXSLACKPROFILE"></a>
+lINK: <a href="https://github.com/Timcodes117/HNGXSLACKPROFILE">click here to open repo</a>
 
