@@ -1,7 +1,7 @@
 # HNGXSLACKPROFILE
 HNGX internship, project: slack profile and GitHub page. react native expo.
 
-AURTHOR: TIMOTHY ADEBOGUN
+AUTHOR: TIMOTHY ADEBOGUN
 
 # USAGE
 - FIRST SCREEN SHOWS PROFILE INFO WITH SLACK UI
